@@ -12,6 +12,8 @@ Turbo Import CSV is a high-performance tool designed to efficiently import large
 - Execution Time: 142 seconds (approximately 2 minutes and 22 seconds).
 - Performance Rate: Processes over 49,000 rows per second.
 
+![image](https://github.com/user-attachments/assets/4aad946a-d8ce-45d1-b7f8-d85a11e28c30)
+
 ## Advantages
 - Drastically reduces processing time compared to traditional insert methods.
 - Minimizes database load with optimized techniques like batching and paralell process.
